@@ -1,2 +1,2 @@
 # quadcore_framework_2.0
-PHP Framework
+QuadCore PHP Framework 2.0
